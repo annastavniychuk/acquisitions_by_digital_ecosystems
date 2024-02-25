@@ -16,6 +16,8 @@ Contact [annastavnychuk@gmail.com](mailto:annastavnychuk@gmail.com)
 
 The file `rusbase_data.csv` contains data on deals (purchases and investments) with Russian startups from January 2010 to April 2023, collected from the website of the Rusbase website [https://rb.ru/deals/](https://rb.ru/deals/). The Rusbase portal collects data from open sources and provide detailed information on deals with Russian startups covered in the media. 
 
+The dashboard based on the dataset is available at the link [https://annastavniychuk.shinyapps.io/antitrust_authority_burden/](https://annastavniychuk.shinyapps.io/antitrust_authority_burden/)
+
 The file `rusbase_data.csv` contains cariables:
 
 - **Startup details:**
@@ -66,6 +68,8 @@ The file `rusbase_data.csv` contains cariables:
 Контакт для связи [annastavnychuk@gmail.com](mailto:annastavnychuk@gmail.com)
 
 В файле `rusbase_data.csv` представлены данные о сделках (покупках и инвестициях) с российскими стартапами с января 2010 по апрель 2023 года, собранные с сайта издания Rusbase [https://rb.ru/deals/](https://rb.ru/deals/). Портал Rusbase собирает данные из открытых источников и предоставляет подробную информацию о сделках с российскими стартапами, освещаемых в СМИ.
+
+Дашборд на основе набоора данных доступен по ссылке [https://annastavniychuk.shinyapps.io/antitrust_authority_burden/](https://annastavniychuk.shinyapps.io/antitrust_authority_burden/) 
 
 Файл `rusbase_data.csv` содержит переменные:
 
