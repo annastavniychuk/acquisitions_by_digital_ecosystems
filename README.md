@@ -16,7 +16,7 @@ Contact [annastavnychuk@gmail.com](mailto:annastavnychuk@gmail.com)
 
 The file `rusbase_data.csv` contains data on deals (purchases and investments) with Russian startups from January 2010 to April 2023, collected from the website of the Rusbase website [https://rb.ru/deals/](https://rb.ru/deals/). The Rusbase portal collects data from open sources and provide detailed information on deals with Russian startups covered in the media. 
 
-The dashboard based on the dataset is available at the link [https://annastavniychuk.shinyapps.io/antitrust_authority_burden/](https://annastavniychuk.shinyapps.io/antitrust_authority_burden/)
+The dashboard (In Russian) based on the dataset is available at the link [https://annastavniychuk.shinyapps.io/antitrust_authority_burden/](https://annastavniychuk.shinyapps.io/antitrust_authority_burden/)
 
 The file `rusbase_data.csv` contains cariables:
 
