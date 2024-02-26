@@ -18,7 +18,7 @@ The file `rusbase_data.csv` contains data on deals (purchases and investments) w
 
 The dashboard (In Russian) based on the dataset is available at the link [https://annastavniychuk.shinyapps.io/antitrust_authority_burden/](https://annastavniychuk.shinyapps.io/antitrust_authority_burden/)
 
-The file `rusbase_data.csv` contains cariables:
+The file `rusbase_data.csv` contains variables:
 
 - **Startup details:**
    - startup_url -- startup page on the Rusbase portal
